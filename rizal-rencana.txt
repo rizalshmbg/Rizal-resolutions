@@ -9,3 +9,5 @@ RENCANA RIZAL
 - Membuat video edukasi PHP Frameworks
   ^ Laravel
 - Interview
+- Vlogs
+- Java dan Kotlin
