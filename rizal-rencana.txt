@@ -4,6 +4,7 @@ RENCANA RIZAL
   * ES6
   * Framework Javascript
     ^ React.js
+    ^ Vue.js
 - Fundamentals Mobile Apps
 - Membuat video edukasi PHP Frameworks
   ^ Laravel
