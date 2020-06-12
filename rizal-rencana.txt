@@ -3,7 +3,11 @@ RENCANA RIZAL
 - Membuat video edukasi Javascript
   * ES6
   * Framework Javascript
+    ^ React.js
+    ^ Vue.js
 - Fundamentals Mobile Apps
 - Membuat video edukasi PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Java dan Kotlin
