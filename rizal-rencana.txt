@@ -1,0 +1,8 @@
+RENCANA RIZAL
+
+- Membuat video edukasi Javascript
+  * ES6
+  * Framework Javascript
+- Membuat video edukasi PHP Frameworks
+- Interview
+- Vlogs
